@@ -1,0 +1,15 @@
+{
+  "name": "trigglo",
+  "displayName": "Trigglo",
+  "version": "1.0.0",
+  "description": "Product photos, short product videos and social posts for an online store, from a conversation. Connects to your Trigglo account.",
+  "author": {
+    "name": "Sprint Build LLC",
+    "email": "hello@trigglo.com",
+    "url": "https://trigglo.com"
+  },
+  "homepage": "https://trigglo.com/ai/claude",
+  "repository": "https://github.com/trigglo/agent-kit",
+  "license": "MIT",
+  "keywords": ["product photos", "product video", "ecommerce", "social media", "instagram"]
+}

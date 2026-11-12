@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "trigglo": {
+      "type": "http",
+      "url": "https://trigglo.com/mcp"
+    }
+  }
+}

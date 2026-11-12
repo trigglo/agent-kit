@@ -1,0 +1,15 @@
+{
+  "name": "trigglo",
+  "description": "Trigglo for Claude: product photos, short product videos and social posts for an online store.",
+  "owner": {
+    "name": "Trigglo",
+    "email": "hello@trigglo.com"
+  },
+  "plugins": [
+    {
+      "name": "trigglo",
+      "source": "./plugins/trigglo",
+      "description": "Make product photos and short videos of your store's own products, then schedule or post them to Instagram, Facebook and Threads."
+    }
+  ]
+}
