@@ -29,7 +29,8 @@ Then run `/mcp`, pick the Trigglo server and sign in to your Trigglo account in 
 
 **Claude on the web, the desktop app and Cowork**
 
-1. Go to **Customize > Plugins > Add > Add marketplace** and enter `trigglo/agent-kit`.
+1. Go to **Customize > Plugins > Add > Add marketplace > Add from a repository**, enter
+   `trigglo/agent-kit` and click **Sync**.
 2. Add the **Trigglo** plugin.
 3. Open the plugin's **Connectors** tab, add Trigglo and connect it. You sign in to your Trigglo
    account, or create one, and approve what Claude may do.

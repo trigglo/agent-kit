@@ -6,7 +6,7 @@ schedule or post them to Instagram, Facebook and Threads, from a conversation wi
 ## Use it
 
 Install in Claude Code with `/plugin install trigglo --marketplace trigglo/agent-kit`, or on
-claude.ai under Customize > Plugins > Add > Add marketplace (`trigglo/agent-kit`). Connect the Trigglo connector from this plugin's Connectors tab (or `/mcp` in Claude Code) and sign
+claude.ai under Customize > Plugins > Add > Add marketplace > Add from a repository (`trigglo/agent-kit`). Connect the Trigglo connector from this plugin's Connectors tab (or `/mcp` in Claude Code) and sign
 in to your Trigglo account. Then ask, for example, "Make 4 photos of my newest product in a gift box
 scene" or "What's going out on my social channels this week?". The skill tells Claude to check your
 account first, wait until each photo is ready, and post or schedule only when you ask.
